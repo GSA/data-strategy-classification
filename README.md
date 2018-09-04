@@ -38,6 +38,6 @@ Please read [CONTRIBUTING.md](https://github.com/GSA/data-strategy-classificatio
 
 ## License
 
-See the [LICENSE.md](LICENSE.md) file for details
+See the [LICENSE.md](https://github.com/GSA/data-strategy-classification/blob/master/LICENSE) file for details
 
 ## Acknowledgments
